@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://dahalrowsan1.github.io/Adult-Website/sitemap.xml
